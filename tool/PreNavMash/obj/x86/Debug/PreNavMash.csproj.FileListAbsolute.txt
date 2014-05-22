@@ -1,0 +1,9 @@
+E:\navmash\PreNavMash\PreNavMash\bin\Debug\PreNavMash.exe
+E:\navmash\PreNavMash\PreNavMash\bin\Debug\PreNavMash.pdb
+E:\navmash\PreNavMash\PreNavMash\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\navmash\PreNavMash\PreNavMash\obj\x86\Debug\PreNavMash.Form1.resources
+E:\navmash\PreNavMash\PreNavMash\obj\x86\Debug\PreNavMash.Properties.Resources.resources
+E:\navmash\PreNavMash\PreNavMash\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\navmash\PreNavMash\PreNavMash\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\navmash\PreNavMash\PreNavMash\obj\x86\Debug\PreNavMash.exe
+E:\navmash\PreNavMash\PreNavMash\obj\x86\Debug\PreNavMash.pdb
